@@ -34,3 +34,21 @@ Parking lot entry-exit dataset: Contains data on slot occupancies, occupancy tim
 
 Authorized Vehicles dataset: Includes text data of authorized vehicle number plates.
 - Source: Manually curated number plate texts
+---
+## Architecture
+
+![image](https://github.com/user-attachments/assets/517489b1-243f-4713-99aa-e7dd94899ff8)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" title="NumPy"/></code>
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="50" height="50" alt="opencv" title="OpenCV"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="50" height="50" title="Matplotlib" alt="matplotlib"/></code>
+</div>
