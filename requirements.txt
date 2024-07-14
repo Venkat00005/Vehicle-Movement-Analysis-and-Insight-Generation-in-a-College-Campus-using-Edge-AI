@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+random
+warnings
+opencv
+ultralytics
+seaborn
+easyocr
+imutils
+csv
