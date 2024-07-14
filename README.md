@@ -1,6 +1,6 @@
 
 # Vehicle Movement Analysis and Insight Generation in a College Campus using Edge AI
-
+---
 
 ## Vehicle Movement Analysis and Insight Generation in a College Campus using Edge AI
 - This solution leverages Edge AI to provide comprehensive insights into vehicle movement and parking patterns on a college campus. 
@@ -21,6 +21,7 @@
 - Identify unauthorized vehicles. 
 - The solution utilizes license plate detection to compare against an approved vehicle dataset, flagging any unauthorized vehicles.
 
+---
 
 ## Datasets
 Parking lot images: Includes images depicting various parking lot occupancies.
