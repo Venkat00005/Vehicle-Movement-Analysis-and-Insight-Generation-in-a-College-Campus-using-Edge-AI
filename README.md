@@ -55,3 +55,16 @@ Authorized Vehicles dataset: Includes text data of authorized vehicle number pla
 	<code><img src="https://yolov8.org/wp-content/uploads/2024/01/YOLOv8.png" width="50" height="50" title="YOLOv8" alt="yolov8"/></code>
 	<code><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="50" height="50" title="Seaborn" alt="seaborn"/></code>
 </div>
+
+## Documentation
+
+[Documentation](https://docs.google.com/presentation/d/1bxiBue2fkccM5yMW0nbzgCCmkxyvaRhaB-rsZits_vc/edit?usp=sharing)
+
+## Conclusion
+
+This Edge AI-based solution for vehicle movement and parking offers a significant advancement in managing college campuses. By leveraging real-time image processing and data analysis, the system provides valuable insights into:
+- Vehicle Movement Patterns
+- Parking Occupancy
+- Vehicle Matching
+
+This intelligent system promotes smoother traffic flow, improves parking efficiency, and strengthens campus security, creating a safer and more manageable environment for students, faculty, and staff. The implementation of this Edge AI solution can be a cornerstone for developing a smart campus, fostering a more streamlined and secure academic experience.
