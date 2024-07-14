@@ -51,4 +51,6 @@ Authorized Vehicles dataset: Includes text data of authorized vehicle number pla
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="50" height="50" alt="opencv" title="OpenCV"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="50" height="50" title="Matplotlib" alt="matplotlib"/></code>
+	<code><img src="https://yolov8.org/wp-content/uploads/2024/01/YOLOv8.png" width="50" height="50" title="YOLOv8" alt="yolov8"/></code>
+	<code><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="50" height="50" title="Seaborn" alt="seaborn"/></code>
 </div>
